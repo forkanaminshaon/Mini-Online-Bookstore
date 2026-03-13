@@ -65,10 +65,9 @@ Create database:
 CREATE DATABASE bookstore;
 
 
+
 Spring Boot will automatically create the required tables.
 
 ## Author
 
 Forkan Amin
-
-## Run Backend
