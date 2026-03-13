@@ -1,0 +1,25 @@
+body{
+font-family: Arial;
+margin: 20px;
+}
+
+#bookContainer{
+display:grid;
+grid-template-columns:repeat(auto-fit,minmax(220px,1fr));
+gap:20px;
+}
+
+.book{
+border:1px solid #ddd;
+padding:15px;
+border-radius:8px;
+}
+
+button{
+background:#007bff;
+color:white;
+border:none;
+padding:8px 10px;
+cursor:pointer;
+margin-top:10px;
+}
